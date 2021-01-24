@@ -17,7 +17,7 @@ Dados como esses podem ser obtidos diretamente das secretarias de cada estado. E
 
 > Como se trata de uma aula, onde o objetivo é ensinar Data Science, serão utilizados dados não-oficiais da criminalidade. Ou seja, não são dados do Governo de São Paulo, mas sim de uma plataforma colaborativa, ***Onde Fui Roubado.***
 
-Você pode conferir todos os detalhes clicando [aqui](https://colab.research.google.com/drive/1A-9nHQOBvlivhW8HvWVoxQqZy8CXJa-9?usp=sharing) que levara ao meu nootebook no Google Colab
+Você pode conferir todos os detalhes clicando [aqui](https://colab.research.google.com/drive/1A-9nHQOBvlivhW8HvWVoxQqZy8CXJa-9?usp=sharing) que levara ao meu notebook no Google Colab
 
 ## Tecnologias
 
